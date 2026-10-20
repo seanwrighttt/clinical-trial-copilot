@@ -1,0 +1,1141 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01074801",
+          "orgStudyIdInfo": {
+            "id": "DAN01"
+          },
+          "organization": {
+            "fullName": "University of Cambridge",
+            "class": "OTHER"
+          },
+          "briefTitle": "Closing the Loop for 36 Hours in Adolescents With Type 1 Diabetes",
+          "officialTitle": "An Open-label, Randomised, 2-period Cross-over Study to Assess the Efficacy and Safety of 36-hour Closed-loop Glucose Control in Comparison With Conventional Subcutaneous Insulin Pump Treatment in Adolescents With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2010-02",
+          "overallStatus": "COMPLETED",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2010-03"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2010-02-23",
+          "studyFirstSubmitQcDate": "2010-02-23",
+          "studyFirstPostDateStruct": {
+            "date": "2010-02-24",
+            "type": "ESTIMATED"
+          },
+          "lastUpdateSubmitDate": "2011-04-05",
+          "lastUpdatePostDateStruct": {
+            "date": "2011-04-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "oldNameTitle": "Stephen Kelleher",
+            "oldOrganization": "Cambridge University Hospitals NHS Foundation Trust and University of Cambridge"
+          },
+          "leadSponsor": {
+            "name": "University of Cambridge",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "Cambridge University Hospitals NHS Foundation Trust",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false
+        },
+        "descriptionModule": {
+          "briefSummary": "High variability of blood sugar levels and high incidence of night-time hypoglycaemia (low blood sugar) in young people with type 1 diabetes (T1D) make achieving the treatment goals in this population extremely challenging.\n\nOur ongoing research focuses on the development of a closed-loop glucose control in children and adolescents with T1D. The three components of the closed-loop system are a continuous glucose monitor, an insulin pump, and a computer-based algorithm. The studies performed thus far evaluated the efficacy and safety of overnight closed-loop glucose control. The results showed that overnight closed-loop improved control of blood glucose and prevented nocturnal hypoglycaemia, as compared to the conventional insulin pump therapy. The next objective is to evaluate the efficacy and safety of closed-loop insulin delivery over a prolonged time period, including the daytime, when normal living activities occur. This will pave the way for a more comprehensive use of closed loop systems to control glucose levels in T1D.\n\nThe present study adopts an open-label, randomised, 2-period cross-over design whereby the safety and efficacy of closed-loop insulin therapy will be compared with the conventional insulin pump therapy in 12 adolescents with T1D. Participants aged 12 to 18 years will be randomised for two 36 hour studies in a clinical research facility, during which glucose levels will be controlled by either the computer-based closed-loop algorithm (intervention arm) or by conventional insulin pump therapy (control arm). During both studies participants will perform normal daily activities, i.e. playing, reading, snacking and physical activity. On both occasions, the Actiheart, a combined heart rate and movement sensor will be used to accurately quantify each subject's individual physical activity energy expenditure during the 36 hour study period and for 36 hours of free living during weekday.",
+          "detailedDescription": "The study is an open-label, randomised, 2-period crossover study comparing the closed-loop insulin therapy with the conventional insulin pump therapy in 12 adolescents with type 1 diabetes.\n\nSubjects who consented to take part in the study will attend the Clinical Research Facility on two occasions, each lasting 36 hours. Approximately 1-3 days prior to each Study Visit, a subcutaneous continuous glucose monitoring (CGM) device will be inserted.\n\nOn each Study Visit subjects will arrive between 17:30 and 18:00 and will stay in the clinical research facility for two nights.\n\nShortly after arrival the subjects will have Actiheart monitor fitted and a cannula inserted into a vein of one arm for blood sampling purposes. Blood sampling for plasma glucose and plasma insulin will start at 18:30 and will be carried out at 30 minutes intervals during the day and at 60min intervals during the night throughout the study period. Plasma glucose measurements will be done in real time every 30min during the day and every 60min during the night except when when plasma glucose \\< 3.5mmol/L or following treatment for hypoglycaemia, when the measurements will be carried out every 15 minutes.\n\nOn Study Visit 1 the subjects will be randomised on arrival to receive either the conventional insulin pump therapy or the closed-loop intervention. At 18:30 subjects will perform 5 to 10 minutes exercise on a bicycle to determine the settings needed to achieve a heart rate of 140 bpm corresponding to an exercise level at 55%60% of peak VO2. In the closed-loop intervention arm the insulin pump therapy will be driven by the computer-based algorithm from 19:30 until the end of the study. The basal insulin infusion rate on the insulin pump will be adjusted manually at 15min intervals following the computer-based algorithm advice. During the control arm, the subject will carry on with their usual insulin pump regimen. In both groups CGM will be continued throughout the whole of the study period. Subjects who completed Study Visit 1 will cross over to the alternative Study Visit schedule after an interval of 1 to 6 weeks."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Type 1 Diabetes"
+          ],
+          "keywords": [
+            "Closed-loop systems",
+            "day-and-night glucose control"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "CROSSOVER",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Closed-loop",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Subcutaneous insulin delivery to be adjusted according to the computer-based algorithm advice, based on subcutaneous glucose readings",
+              "interventionNames": [
+                "Other: Closed-loop insulin delivery"
+              ]
+            },
+            {
+              "label": "Control arm",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Subcutaneous insulin delivery to be administered according the standard insulin pump settings",
+              "interventionNames": [
+                "Other: Standard insulin pump treatment"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Closed-loop insulin delivery",
+              "description": "Basal subcutaneous insulin delivery to be adjusted at 15min cycles according to the computer-based algorithm advice.",
+              "armGroupLabels": [
+                "Closed-loop"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Standard insulin pump treatment",
+              "description": "Subcutaneous insulin delivery to be performed based on subjects' standard treatment",
+              "armGroupLabels": [
+                "Control arm"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "The primary outcome measure is time spent with plasma glucose concentration in the target range (3.9-10.0 mmol/L) between 24:00 on Day 1 to 08:00 on Day 3.",
+              "timeFrame": "32 hours"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Secondary outcomes will include: (i) Total and basal insulin delivery between 24:00 on Day 1 and 08:00 on Day 3 (36 hours) (ii) CGM glucose levels between 24:00 on Day 1 and 08:00 on Day 3 (36 hours)",
+              "timeFrame": "36 hours"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* The subject is between 12 and 18 years of age (inclusive)\n* The subject has had type 1 diabetes, as defined by WHO for at least 1 year or is confirmed C-peptide negative\n* The subject will have been on insulin pump for at least 3 months, with good knowledge of insulin self-adjustment\n* HbA1c â‰¤ 12% based on analysis from central laboratory\n\nExclusion Criteria:\n\n* Non-type 1 diabetes mellitus including those secondary to chronic disease\n* Any other physical or psychological disease likely to interfere with the normal conduct of the study and interpretation of the study results\n* Current treatment with drugs known to interfere with glucose metabolism such as systemic corticosteroids, non-selective beta-blockers and MAO inhibitors\n* Known or suspected allergy against insulin\n* Subjects with clinical significant nephropathy, neuropathy or proliferative retinopathy as judged by the clinician\n* Total daily insulin dose \\>= 2 IU/kg\n* Postmenarchal girls who are pregnant or intending to become pregnant or are breastfeeding\n* Any coexisting cardiac and respiratory condition (including asthma)",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "18 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03919929",
+          "orgStudyIdInfo": {
+            "id": "19-0636"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "1R01DK120612-01A1",
+              "type": "NIH",
+              "link": "https://reporter.nih.gov/quickSearch/1R01DK120612-01A1"
+            }
+          ],
+          "organization": {
+            "fullName": "University of Colorado, Denver",
+            "class": "OTHER"
+          },
+          "briefTitle": "Treating PCOS With Semaglutide vs Active Lifestyle Intervention",
+          "officialTitle": "Treating PCOS With Semaglutide vs Active Lifestyle Intervention",
+          "acronym": "TEAL"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-11",
+          "overallStatus": "COMPLETED",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2019-05-03",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2023-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-03",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2019-04-15",
+          "studyFirstSubmitQcDate": "2019-04-16",
+          "studyFirstPostDateStruct": {
+            "date": "2019-04-18",
+            "type": "ACTUAL"
+          },
+          "resultsFirstSubmitDate": "2025-09-16",
+          "resultsFirstSubmitQcDate": "2025-11-12",
+          "resultsFirstPostDateStruct": {
+            "date": "2025-11-25",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-11-12",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-11-25",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "University of Colorado, Denver",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+              "class": "NIH"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": true,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Girls with obesity and polycystic ovarian syndrome will receive either glucagon like peptide-1 receptor agonist therapy or a dietary intervention for 12 weeks to decrease the metabolic syndrome, in particular to lower hepatic fat and improve insulin sensitivity.",
+          "detailedDescription": "In obese girls with polycystic ovarian syndrome, testosterone and obesity combine to create unique pathology to increase metabolic disease including fatty liver and insulin resistance, which may be mediated by altered glucagon like peptide-1 activity. The investigators will treat girls with obesity and polycystic ovarian syndrome for 4 months with a glucagon like peptide-1 receptor agonist compared to dietary intervention to primarily lower hepatic fat and secondarily improve whole body and adipose insulin sensitivity. Mechanisms of hepatic metabolism, including rates of de novo lipogenesis and relative mitochondrial flux will also be assessed."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "PCOS",
+            "Adolescent Obesity",
+            "NAFLD"
+          ],
+          "keywords": [
+            "Insulin Resistance"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Diet Intervention",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Weight loss with dietary intervention",
+              "interventionNames": [
+                "Other: Weight loss diet"
+              ]
+            },
+            {
+              "label": "GLP-1 Intervention",
+              "type": "EXPERIMENTAL",
+              "description": "Participants will take a daily oral tablet of semaglutide for 4 months.",
+              "interventionNames": [
+                "Drug: Semaglutide 3mg and 7mg [Rybelsus]"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Semaglutide 3mg and 7mg [Rybelsus]",
+              "description": "Once daily oral tablet of semaglutide for 4 months",
+              "armGroupLabels": [
+                "GLP-1 Intervention"
+              ],
+              "otherNames": [
+                "GLP-1 receptor agonist"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Weight loss diet",
+              "description": "Prescribed weight loss diet to match weight loss in Drug arm",
+              "armGroupLabels": [
+                "Diet Intervention"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Change in Hepatic Fat Fraction",
+              "description": "Change from baseline in presence/severity of hepatic fat fraction will be measured with MRI, and calculated via the Dixon method as the proton density hepatic fat fraction, which ranges from 0-75%. A negative value means a decrease in liver fat, and a positive value means an increase in liver fat.",
+              "timeFrame": "Baseline and 12 weeks"
+            },
+            {
+              "measure": "Change in Weight",
+              "description": "Change in weight will be calculated for each group (diet and semaglutide), and both the absolute and relative weight changes between the two groups will be reported.",
+              "timeFrame": "Baseline and 12 weeks"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Change in Rate of De Novo Lipogenesis (DNL)",
+              "description": "Change from baseline of the rate of overnight de novo lipogenesis (DNL) will be measured utilizing stable isotope methods with deuterated water, and expressed as the rate of newly synthesized lipids in the serum triglyceride fraction. A negative value means a decrease in newly synthesized lipids after the 12 week intervention, and a positive value means an increase in newly synthesized lipids after the 12 week intervention. A lower value is better.",
+              "timeFrame": "Baseline and 12 weeks"
+            },
+            {
+              "measure": "Change in Whole Body Insulin Sensitivity",
+              "description": "Participants will undergo a 75 gram oral glucose tolerance test, and the change from baseline in whole body insulin sensitivity will be expressed as Si, calculated via the oral minimal model.",
+              "timeFrame": "Baseline and 12 weeks"
+            },
+            {
+              "measure": "Change in Adipose Insulin Sensitivity",
+              "description": "Change from baseline of adipose insulin sensitivity will be calculated as the percent suppression of free fatty acids, and the nadir of free fatty acids during the oral glucose tolerance test. Percent suppression of FFAs during the OGTT was calculated as fasting FFA minus the minimal FFA value divided by fasting FFA. This was calculated for baseline and after 12-weeks of intervention. The change was calculated by subtracting the final-baseline values. A higher absolute value means there was an improvement in adipose insulin sensitivity after 12-weeks of treatment.",
+              "timeFrame": "Baseline and 12 weeks"
+            }
+          ],
+          "otherOutcomes": [
+            {
+              "measure": "Change in Percentage of Indirect Glycerol Carbon Contributions to Newly Synthesized Triglycerides and Glucose",
+              "description": "This outcome evaluates mitochondrial function and excess tricarboxylic acid (TCA) cycle substrate cycling by measuring indirect carbon contributions to newly synthesized triglycerides and glucose using stable isotope-labeled glycerol. Participants receive orally administered \\[U-13C3\\]glycerol mixed in water, and plasma glucose and lipids are analyzed by 13C NMR spectroscopy. Indirect glycerol carbon contribution reflects the fraction of glycerol carbons that first enter the TCA cycle before incorporation into triglycerides and glucose. A decrease in the percentage of indirect contributions is beneficial, indicating decreased oxidative stress resulting from excess TCA cycling.",
+              "timeFrame": "Baseline and 12 weeks"
+            },
+            {
+              "measure": "Change in Free Androgen Index",
+              "description": "The Free Androgen Index (FAI) is a test for hyperandrogenism in women, using testosterone and sex hormone binding globulin (SHBG) as markers. The calculation is FAI = Total Testosterone (nmol/ L)) x 100 / Sex Hormone-Binding Globulin (SHBG) (nmol/ L). Typical values for the FAI in women are 7-10, and FAI is usually elevated in women with PCOS. The change in FAI will be calculated after 12 weeks of diet or semaglutide intervention. A negative value means an improvement as there was a decrease in androgen levels after 12 weeks of treatment.",
+              "timeFrame": "Baseline and 12 weeks"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Sedentary- less than 2 hours of moderate (jogging, swimming etc) exercise a week.\n2. BMI equal or greater than the 90th percentile for age and gender\n3. PCOS per the most stringent NIH criteria adapted for adolescents (irregular menses \\>12 months post-menarche and clinical or biochemical hypertestosteronemia\n4. Participants cannot be on hormonal contraception, so participants should remain abstinent or use reliable non-hormonal contraception (e.g. copper IUD) for the entire study period. For participants who receive semaglutide, they should avoid pregnancy for at least 2 months after stopping medication to avoid fetal exposure to the medication.\n\nExclusion Criteria:\n\n1. Diagnosed with or have a family history of medullary thyroid carcinoma (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Family history of medullary thyroid cancer or thyroid nodule palpated by endocrinologist at screening.\n2. Use of medications known to affect insulin sensitivity: metformin (cannot have been used in the 3 months prior to screening), oral glucocorticoids within 10 days, atypical antipsychotics, immunosuppressant agents, HIV medications, hormonal contraception (cannot have been used in the 6 months prior to screening). Dermal patch or vaginal ring contraception methods.Weight loss medications or stimulants. Use of other products containing other GLP-1 agonists.\n3. Currently pregnant or breastfeeding women. Development of pregnancy during the study period will necessitate withdrawal from the study.\n4. Severe illness requiring hospitalization within 60 days.\n5. Diabetes, defined as Hemoglobin A1C \\> 6.4%\n6. BMI percentile less than the 90th percentile for age and sex. Weight \\>325 lbs. or \\<84 lbs.\n7. Anemia, defined as Hemoglobin \\< 11 mg/dL\n8. Diagnosed major psychiatric or developmental disorder limiting informed consent.\n9. Implanted metal devices that are not compatible with MRI\n10. Use of blood pressure medications.\n11. Known liver disease other than NAFLD or AST or ALT \\>100 IU/L.\n12. Personal history of pancreatitis\n13. Known renal disease of any severity or an eGFR at screening of \\<45ml/min/1.73m2\n14. History of severe GI disease (e.g. gastroparesis)\n15. History of gallstones\n16. Untreated thyroid disease\n17. History of hypersensitivity to semaglutide\n18. Other causes of hyperandrogenism (example: tumor, CAH) or amenorrhea (untreated thyroid disease, tumor, primary ovarian failure, prolactinoma).\n19. Active symptoms or undergoing treatment for anorexia nervosa or binging/purging disorder",
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "genderBased": true,
+          "minimumAge": "12 Years",
+          "maximumAge": "21 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "42014131",
+              "type": "DERIVED",
+              "citation": "Boster JM, Cree MG, Kelsey MM, Nadeau KJ, Chaidez A, Pan Z, Sundaram SS. Relative Skeletal Muscle Mass Is Associated With Hepatic Steatosis in Adolescents With Overweight and Obesity. Pediatr Obes. 2026 Apr;21(4):e70108. doi: 10.1111/ijpo.70108."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "hasResults": true
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03554200",
+          "orgStudyIdInfo": {
+            "id": "15-156"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2017-002695-45",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "id": "2017",
+              "type": "NIH",
+              "link": "https://reporter.nih.gov/quickSearch/2017"
+            }
+          ],
+          "organization": {
+            "fullName": "RWTH Aachen University",
+            "class": "OTHER"
+          },
+          "briefTitle": "EMPA Acute Heart Failure",
+          "officialTitle": "Effect of Empagliflozin on Cardiac Output in Patients With Acute Heart Failure (EMPA Acute Heart Failure)"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2022-10",
+          "overallStatus": "TERMINATED",
+          "whyStopped": "COVID 19",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2018-06-11",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2020-10-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-29",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2018-05-17",
+          "studyFirstSubmitQcDate": "2018-05-30",
+          "studyFirstPostDateStruct": {
+            "date": "2018-06-13",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2022-10-25",
+          "lastUpdatePostDateStruct": {
+            "date": "2022-10-27",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "RWTH Aachen University",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "Boehringer Ingelheim",
+              "class": "INDUSTRY"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "In this study the investigators are aiming to treat patients with acute heart failure with or without diabetes with Empagliflozin or placebo. Given the beneficial effects of Empagliflozin on heart failure hospitalization in the EMPA-REG OUTCOME trial, the investigators do expect a similar beneficial effect to be present in patients with acute heart failure. Acute heart failure is a state of hydropic decompensation resulting in dyspnea and congestions, caused by different etiologies of cardiac disease. Recompensation is reached by application of diuretic drugs and fluid restriction.",
+          "detailedDescription": "In the present study patients will be randomized into 2 groups (standard of care + Empagliflozin 10 mg/d or standard of care + placebo). Cardiac output will be assessed by a medical device for noninvasive monitoring of hemodynamic parameters (cardiac output, systemic vascular resistance, stroke volume and blood pressure) using finger cuff technology for pulse contour analysis.\n\nThese investigations will inform about Empagliflozin dependent effects on hemodynamic and cardiac function in patients with acute heart failure. The investigation will further assess the therapeutic efficacy of Empagliflozin on heart failure symptoms using objective (respiratory rate, oxygen requirement, peak expiratory flow rate, urinary volume, body weight, diuretic requirement, length of hospital stay) and well accepted, patient orientated secondary endpoints. In addition, metabolic regulators and parameters relevant for cardiac function and substrate metabolism will be assessed to further investigate possible mechanisms of Empagliflozin-dependent actions on cardiac function."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Diabetes Mellitus, Type 2",
+            "Acute Heart Failure"
+          ],
+          "keywords": [
+            "Empagliflozin",
+            "acute heart failure",
+            "cardiac output",
+            "left ventricular systolic and diastolic function",
+            "exercise capacity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "Single center, prospective, placebo-controlled, double blind, randomized, 2-arm parallel, interventional, exploratory pilot study",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "maskingDescription": "This trial is double-blinded. After randomization neither the patients nor the investigator will be aware of the treatment allocation. Patients assigned to one of the double-blinded treatment will take one tablet Empagliflozin or matching placebo. The tablets will be identical in appearance.",
+              "whoMasked": [
+                "PARTICIPANT",
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Empagliflozin",
+              "type": "EXPERIMENTAL",
+              "description": "Patients will receive empagliflozin 10 mg qd for a period of 30 days.",
+              "interventionNames": [
+                "Drug: Empagliflozin"
+              ]
+            },
+            {
+              "label": "Placebo",
+              "type": "PLACEBO_COMPARATOR",
+              "description": "Patients of the placebo arm will receive placebo tablets qd for a period of 30 days.",
+              "interventionNames": [
+                "Drug: Placebo"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Empagliflozin",
+              "description": "Standard of Care + Empagliflozin: 10 mg (tablets) once daily",
+              "armGroupLabels": [
+                "Empagliflozin"
+              ],
+              "otherNames": [
+                "Jardiance"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Placebo",
+              "description": "Standard of Care + Placebo: Matching Placebo (tablets) once daily",
+              "armGroupLabels": [
+                "Placebo"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "effect of Empagliflozin 10mg qd versus placebo on cardiac output in patients with acute heart failure",
+              "description": "by ClearSight System",
+              "timeFrame": "30 days"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Hemodynamics",
+              "description": "Systemic vascular resistance (mmHgâ‹…minâ‹…mL-1)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Hemodynamics",
+              "description": "Stroke volume (ml/beat)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Exercise Capacity",
+              "description": "Hand grip",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Cardio vascular",
+              "description": "blood pressure (mmHg)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Effect of Empagliflozin on systemic quality of life",
+              "description": "Quality of life questionnaire",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Effect of Empagliflozin on hospitalization due to cardiovascular causes or readmission for heart failure or renal failure",
+              "description": "length of initial hospital stay",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Effect of Empagliflozin on death due to cardiovascular causes",
+              "description": "days alive and out of hospital",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Urine",
+              "description": "24 h sodium excretion (mmol/day)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Body weight",
+              "description": "body weight (kg)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Cardio vascular",
+              "description": "24 h heart rate (bpm)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Blood",
+              "description": "NT-proBNP (ng/l)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Blood",
+              "description": "cystatin C(mg/dl)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Blood",
+              "description": "serum levels of Glucose, Glucagon, Insulin, Total-Ketone bodies, Hydroxybutyrate, Aldosterone, Free fatty acidy (mg/dl)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Blood",
+              "description": "Hemoglobin, Haematocrit, Erythropoietin",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Respiratory rate",
+              "description": "breaths/min",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Diuretic response",
+              "description": "Î” weight kg/\\[(total i.v. dose)/40mg\\]+\\[(total oral dose)/80mg)\\] furosemide",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Kidney injury risk score",
+              "description": "by NephroCheckÂ® (defined by TIMP-2 x IGFBP7 in urine)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "change of microbiome",
+              "description": "stool sample",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Patient-reported dyspnea",
+              "description": "visual analogue scale (VAS), 7 point categorical Likert scale",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Peak expiratory flow rate",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Oxygen",
+              "description": "Saturation (%)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Oxygen",
+              "description": "delivered (l/min)",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Clinical judged diuretic requirement",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Blood",
+              "description": "eGFR",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Blood",
+              "description": "Lactate, pH, HCO3-",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Blood",
+              "description": "Serum osmolarity, Potassium, Chloride",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Effect of Empagliflozin 10 mg daily on Left ventricular systolic function",
+              "description": "ejection fraction",
+              "timeFrame": "30 days"
+            },
+            {
+              "measure": "Effect of Empagliflozin 10 mg daily on Left ventricular diastolic function",
+              "description": "2D and 3D parameter global strain rate E by echocardiography and by standardized parameter E/E' and left atrial (LA) volume",
+              "timeFrame": "30 days"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age â‰¥ 18 years\n2. Patients with acute heart failure with associated signs or symptoms (dyspnea on exertion, orthopnea, paroxysmal dyspnea, peripheral oedema, chest x-ray with pulmonary congestion)\n3. Serum levels of NT-proBNP â‰¥ 1000 pg/ml within 48 hours of Informed Consent\n4. Written informed consent prior to study participation\n\nExclusion Criteria:\n\n1. Type 1 diabetes\n2. Participants of child-bearing age without adequate contraception\n3. Pregnancy or lactating females\n4. Cardiogenic shock\n5. Acute coronary syndrome within 30 days prior to randomization\n6. Planned or recent percutaneous or surgical coronary intervention within 30 days prior to randomization\n7. Signs of ketoacidosis and/or hyperosmolar hyperglycemic syndrome (pH â‰¤ 7.30 and glucose \\>14 mmol/l and HCO3- â‰¤ 18 mmol/l)\n8. Signs of uncontrolled active infection\n9. Dyspnea due to non-cardiac causes (severe pulmonary disease, anemia, severe obesity), non-HF causes such as acute or chronic respiratory disorders\n10. Coronary artery disease with requirement for revascularization within the study period\n11. Renal impairment (GFR \\< 20 ml/min/1,73 m2)\n12. Known hepatic impairment (as evidenced by total bilirubin \\>3 mg/dL) or history of cirrhosis with evidence of portal hypertension (e.g., presence of esophageal varices)\n13. Uncontrolled thyroid disease\n14. Endocrinopathies like Graves' disease, acromegaly, Cushings' disease\n15. Hypertensive retinopathy or encephalopathy\n16. Bariatric surgery in last 2 years prior to randomization\n17. Patients in whom study participation is not deemed appropriate under consideration of clinical wellbeing by the principal investigator\n18. The subject is mentally or legally incapacitated\n19. The subject received an investigational drug within 30 days prior to inclusion into this study\n20. Urinary tract infections or significant formation of residual urine in medical history\n21. Patients with particular risk for ketoacidosis (alcohol abuse, pancreatitis, pancreatic insulin deficiency from any cause, caloric restriction etc.) or ketoacidosis in the past\n22. Frequent hypoglycaemic events (in the opinion of the investigator)\n23. Intolerance to Empagliflozin and excipients in Empagliflozin or rather placebo\n24. Patients with severe stenosis or regurgitation of the aortic, pulmonary or mitral valve",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07521631",
+          "orgStudyIdInfo": {
+            "id": "HDM1005-203"
+          },
+          "organization": {
+            "fullName": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+            "class": "INDUSTRY"
+          },
+          "briefTitle": "Efficacy and Safety of HDM1005 Compared to Tirzepatide in Obese Adults Without Diabetes",
+          "officialTitle": "A Phase 2, Randomized, Open-Label, Controlled Trial to Evaluate the Efficacy and Safety of HDM1005 Compared to Tirzepatide in Obese Adults Without Diabetes"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-04",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2026-03-31",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-02-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-23",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2026-03-31",
+          "studyFirstSubmitQcDate": "2026-04-08",
+          "studyFirstPostDateStruct": {
+            "date": "2026-04-13",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-04-08",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-04-13",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+            "class": "INDUSTRY"
+          }
+        },
+        "oversightModule": {
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "This is a 56-week randomized, open-label, controlled study evaluating the efficacy and safety of the HDM1005 compared to tirzepatide in adults with obesity but without diabetes. Eligible participants will be screened and randomized to different dose group of HDM1005 or the tirzepatide group at a ratio of 1:1:1 :1, HDM1005 or tirzepatide will be given once weekly for 52 weeks, following by a safety follow up of 4 weeks. All participants received a lifestyle intervention that involved counselling on diet and physical activity."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Obesity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 372,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "HDM1005 injection dose group 1",
+              "type": "EXPERIMENTAL",
+              "description": "Initiate at a once weekly dose of 0.5 mg and followed a dose escalation regimen, with dose increases every 4 weeks aiming at reaching the maintenance dose, the intervention will last for 52 weeks in total.",
+              "interventionNames": [
+                "Drug: HDM1005 dose level 1"
+              ]
+            },
+            {
+              "label": "HDM1005 injection dose group 2",
+              "type": "EXPERIMENTAL",
+              "description": "Initiate at a once weekly dose of 0.5 mg and followed a dose escalation regimen, with dose increases every 4 weeks aiming at reaching the maintenance dose, the intervention will last for 52 weeks in total.",
+              "interventionNames": [
+                "Drug: HDM1005 dose level 2"
+              ]
+            },
+            {
+              "label": "HDM1005 injection dose group 3",
+              "type": "EXPERIMENTAL",
+              "description": "Initiate at a once weekly dose of 0.5 mg and followed a dose escalation regimen, with dose increases every 4 weeks aiming at reaching the maintenance dose, the intervention will last for 52 weeks in total.",
+              "interventionNames": [
+                "Drug: HDM1005 dose level 3"
+              ]
+            },
+            {
+              "label": "tirzepatide injection",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Initiate at a once weekly dose of 2.5 mg and followed a dose escalation regimen, with dose increases every 4 weeks aiming at reaching the maintenance dose, the intervention will last for 52 weeks in total.",
+              "interventionNames": [
+                "Drug: Tirzepatide"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "HDM1005 dose level 1",
+              "description": "Initiate at a once weekly dose of 0.5 mg and followed a dose escalation regimen, with dose increases every 4 weeks aiming at reaching the maintenance dose level 1, the intervention will last for 52 weeks in total.",
+              "armGroupLabels": [
+                "HDM1005 injection dose group 1"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "HDM1005 dose level 2",
+              "description": "Initiate at a once weekly dose of 0.5 mg and followed a dose escalation regimen, with dose increases every 4 weeks aiming at reaching the maintenance dose level 2, the intervention will last for 52 weeks in total.",
+              "armGroupLabels": [
+                "HDM1005 injection dose group 2"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "HDM1005 dose level 3",
+              "description": "Initiate at a once weekly dose of 0.5 mg and followed a dose escalation regimen, with dose increases every 4 weeks aiming at reaching the maintenance dose level 3, the intervention will last for 52 weeks in total.",
+              "armGroupLabels": [
+                "HDM1005 injection dose group 3"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Tirzepatide",
+              "description": "Initiate at a once weekly dose of 2.5 mg and followed a dose escalation regimen, with dose increases every 4 weeks aiming at reaching the maintenance dose, the intervention will last for 52 weeks in total.",
+              "armGroupLabels": [
+                "tirzepatide injection"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Primary Outcome",
+              "description": "The percentage change in body weight from baseline to week 40",
+              "timeFrame": "week 40"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Secondary Outcome",
+              "description": "The proportion of participants reaching a body weight loss of at least 5%, 10% and 15% at week 40",
+              "timeFrame": "week 40"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "The percentage change in body weight from baseline to week 52",
+              "timeFrame": "week 52"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in waist circumference at week 40",
+              "timeFrame": "week 40"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in body weight at week 40",
+              "timeFrame": "week 40"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in BMI at week 40",
+              "timeFrame": "week 40"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in BMI at week 52",
+              "timeFrame": "week 52"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in waist circumference at week 52",
+              "timeFrame": "week 52"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in waist body weight at week 52",
+              "timeFrame": "week 52"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in systolic blood pressure (SBP) at week 40",
+              "timeFrame": "week 40"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in diastolic blood pressure (DBP) at week 40",
+              "timeFrame": "week 40"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in lipids at week 40",
+              "timeFrame": "week 40"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in SBP at week 52",
+              "timeFrame": "week 52"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in DBP at week 52",
+              "timeFrame": "week 52"
+            },
+            {
+              "measure": "Secondary Outcome",
+              "description": "Change in lipids at week 52",
+              "timeFrame": "week 52"
+            },
+            {
+              "measure": "Safety Outcome",
+              "description": "the incidence of adverse events",
+              "timeFrame": "week 52"
+            },
+            {
+              "measure": "Immunogenicity Outcome",
+              "description": "ADA and NAb",
+              "timeFrame": "week 52"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. The age of signing ICF was from 18 to 65 years old (including both ends), regardless of gender.\n2. BMI â‰¥28.0 but \\<40.0 kg/m2 at screening and randomization\n3. Participants reported that they had been under diet and exercise control for 3 months or more before screening, and their weight change (the difference between the maximum body weight and the minimum body weight) in the past 3 months was less than 5%.\n4. fertile female subjects who have taken and agreed to continue to take effective contraceptive measures from 14 days before signing ICF to 60 days after the last dose, and have no plans to give birth and donate eggs; Male subjects signed ICF until 90 days after the last dose, had no fertility plan and sperm donation plan, and agreed to use highly effective contraception.\n\nExclusion Criteria:\n\n1. Previous diagnosis of type 1, type 2, or any other type of diabetes.\n2. History or family history of medullary thyroid carcinoma, C cell hyperplasia, or multiple endocrine neoplasia type\n3. According to the investigator's judgment, the subjects have endocrine diseases or histories that affect gastric emptying, may significantly affect body weight, or diseases or conditions that affect the absorption of gastrointestinal nutrients, such as Cushing syndrome, hypothyroidism or hyperthyroidism, bariatric surgery or other gastrectomy, irritable bowel syndrome, dyspepsia, and chronic pancreatitis; Or a history of acute pancreatitis or acute gallbladder disease within 3 months before signing ICF.\n4. Hypertension that was not stably controlled at screening: systolic blood pressure â‰¥160 mmHg or diastolic blood pressure â‰¥100 mmHg (with stable treatment for at least 30 days if antihypertensive medications were used).\n\n   Have any malignant tumor within 5 years before signing ICF (except basal cell carcinoma which has received curative treatment and is regarded as cured).\n5. Those who had severe infection, severe trauma, or large or medium-sized surgery within 3 months before signing ICF, or planned to undergo surgery during the study (except outpatient surgery).\n6. Previous or combined presence or suspicion of depression or other psychiatric disorders or screening PHQ-9 score â‰¥15.\n7. Known intolerance or allergy to any component of the study drug or glucagon-like peptide-1 receptor (GLP-1R) agonist, or a previous history of severe drug allergy.\n8. Use of any of the following drugs, products, or treatments within 3 months prior to signing the ICF, including but not limited to:\n\n   A. a drug, product or treatment with weight loss effect b. Medications, products, or treatments that significantly increase body weight\n9. Use of hypoglycemic drugs within 3 months before signing ICF.\n10. Have participated in any clinical trial within 3 months before signing ICF or within 5 half-lives (whichever is longer) after the last dose of the investigational drug used in the clinical trial (except for those who signed ICF without drug or device intervention).\n11. History of addictive drug abuse within 1 year before signing ICF.\n12. Estimated glomerular filtration rate (eGFR) according to the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation \\<60 mL/min/1.73 m2;\n13. Those who donated blood or lost â‰¥400 mL of total blood within 3 months before signing ICF, or received blood transfusion or used blood products, or planned to donate blood during the study period.\n14. Pregnant or lactating women.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01285934",
+          "orgStudyIdInfo": {
+            "id": "Diabetes2008"
+          },
+          "organization": {
+            "fullName": "Northwestern University",
+            "class": "OTHER"
+          },
+          "briefTitle": "Hematopoietic Stem Cell Support Versus Insulin in T1D",
+          "officialTitle": "A Trial of High Dose Immunosuppression and Autologous Hematopoietic Stem Cell Support Versus Intensive Insulin Therapy in Adults With Early Onset Type I Diabetes Mellitus"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2015-03",
+          "overallStatus": "WITHDRAWN",
+          "whyStopped": "No participant enrolled",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2009-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2011-01-27",
+          "studyFirstSubmitQcDate": "2011-01-27",
+          "studyFirstPostDateStruct": {
+            "date": "2011-01-28",
+            "type": "ESTIMATED"
+          },
+          "lastUpdateSubmitDate": "2015-08-19",
+          "lastUpdatePostDateStruct": {
+            "date": "2015-08-21",
+            "type": "ESTIMATED"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Richard Burt, MD",
+            "investigatorTitle": "MD",
+            "investigatorAffiliation": "Northwestern University"
+          },
+          "leadSponsor": {
+            "name": "Northwestern University",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "University of Sao Paulo General Hospital",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true
+        },
+        "descriptionModule": {
+          "briefSummary": "Type 1 diabetes mellitus (T1D) results from immune-mediated destruction of insulin-producing islet cells. The loss of islet cells is traditionally treated with insulin therapy and in some cases pancreas or islet cell transplantation. Another approach would be to preserve islet cell mass before it is irreversibly lost. Previous trials using immune suppression within 6 weeks of T1D onset have demonstrated diminished exogenous insulin requirements compared to untreated controls. In our prior phase I non-randomized study, by extending immune suppression to the point of immune ablation / immune reset with autologous HSC support, several patients with new onset T1D have maintained an insulin-free, drug free remissions for more than 4 years. Although these results appear highly promising, it may be argued that our results are mitigated by the documented honeymoon effect following T1D, that is by a normal transient insulin free interval occurring after disease onset in some patients. The goal of this trial is to extend this phase I study of new onset T1D to clarify whether our post transplant insulin free interval is due to treatment intervention (transplant) or a result of a normally occurring \"insulin free honeymoon period\". Both groups will receive identical change of life style (i.e. diet, exercise) education.",
+          "detailedDescription": "Eligible patients will have type 1 diabetes (aged â‰¥ 18 years old) within five months of disease diagnosis, and a positive antibody to an islet cell autoantigen, and fasting C-peptide \\> 0.2 nmol/l. Hematopoietic stem cells will be mobilized with cyclophosphamide (2.0 g/m2) and granulocyte colony-stimulating factor (10 g/kg/day) collected from peripheral blood by leukoapheresis and cryopreserved. HSC will injected IV after conditioning with cyclophosphamide (200 mg/kg) divided 50 mg/kg on day -5, -4, -3, -2, and rabbit antithymocyte globulin (4.5 mg/kg) divided 0.5 mg/kg day-5, and 1.0 mg/kg day -4, -3-, -2, -1. Rituxan (500mg) IV will be given on days -6 and +1. The control arm will receive either continuous subcutaneous insulin infusion (CSII) or intensive subcutaneous insulin therapy with multiple insulin injections (at least 4/day) utilizing a long acting background insulin and pre-meal rapid acting insulin. The main outcome measure will be: fasting C-peptide. Other outcome measures will include: daily exogenous insulin requirements, serum levels of hemoglobin A1c, area under the curve (AUC) C-peptide levels during mixed meal tolerance test, islet cell autoantigen antibody titers, and quality of life (QOL) short form 36 (SF-36) questionnaire."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Diabetes Mellitus, Type 1"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Hematopoietic Stem Cell Transplantation",
+              "type": "EXPERIMENTAL",
+              "description": "Patients who meet eligibility and have completed pre-HSCT testing in section 7.0 (study parameters) may be enrolled in the transplant arm and will undergo an Autologous Hematopoietic Stem Cell Transplantation",
+              "interventionNames": [
+                "Biological: Autologous Hematopoietic Stem Cell Transplantation"
+              ]
+            },
+            {
+              "label": "control arm of intensive insulin therapy",
+              "type": "OTHER",
+              "description": "The control arm of intensive insulin therapy (IIT) will enroll all patients who meet eligibility but decline HSCT or whose insurance does not approve payment for HSCT before expiration of eligibility (within 5 months of disease onset)",
+              "interventionNames": [
+                "Drug: intensive insulin therapy"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "BIOLOGICAL",
+              "name": "Autologous Hematopoietic Stem Cell Transplantation",
+              "description": "All participants randomized to the transplant arm wil undergo Autologous Hematopoietic Stem Cell Transplantation",
+              "armGroupLabels": [
+                "Hematopoietic Stem Cell Transplantation"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "intensive insulin therapy",
+              "description": "The control arm will be either CSII via an insulin pump or intensive subcutaneous insulin therapy with multiple insulin injections (at least 4/day) utilizing a long acting background insulin and pre-meal rapid acting insulin.",
+              "armGroupLabels": [
+                "control arm of intensive insulin therapy"
+              ],
+              "otherNames": [
+                "IIT"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "C-peptide",
+              "description": "C-peptide (fasting and every 30 minutes during 2 hour mixed meal tolerance test",
+              "timeFrame": "Every 6 months for 5 years"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Insulin dose",
+              "description": "Insulin dose, recorded as daily insulin dose in IU/Kg/day",
+              "timeFrame": "5 years"
+            },
+            {
+              "measure": "Serum levels of hemoglobin A1c",
+              "timeFrame": "5 years"
+            },
+            {
+              "measure": "Stimulated C-peptide levels during mixed meal tolerance test",
+              "timeFrame": "5 years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Ages 16 to 35 years old\n* A diagnosis of type 1 diabetes by hyperglycemia and at least 1 antibody to islet cell autoantigen: GAD, IAA, ICA, IA-2, or Slc30A8\n* Fasting C-peptide \\> 0.20 nmol / liter\n* Enrollment within 5 months of T1D diagnosis\n* Eligible patients must be referred to a fertility / reproductive endocrinologist and have written documentation of medical counseling advising patients about the risk of infertility and the possible options of sperm and oocyte banking before enrollment.\n\nExclusion Criteria:\n\n* HIV positive\n* Patients in the honeymoon phase not taking insulin\n* Hepatitis A, B, or C positive\n* On corticosteroids or other immune suppressive medications\n* History of diabetic ketoacidosis\n* Ongoing malignancy except localized treated basal cell or squamous skin cancer.\n* History of cardiac disease or congestive heart failure or ventricular tachycardia or abnormal dobutamine cardiac echocardiogram\n* Positive pregnancy test, inability or unwillingness to pursue effective means of birth control, failure to willingly accept or comprehend irreversible sterility as a potential side effect of therapy.\n* Psychiatric illness or mental deficiency making compliance with treatment or informed consent impossible.\n* DLCO \\< 60% of predicted\n* Resting LVEF \\< 45%\n* Creatinine \\> 1.5 mg/dl\n* Known hypersensitivity to E Coli derived proteins.\n* Transaminases greater than 2 times normal\n* Positive tuberculosis skin test\n* Any active infection\n* Any co-morbid illness that in the opinion of the investigator would jeopardize the ability of the subject to tolerate the study.\n* Failure to collect at least 2.0 x 106 CD34+ cells/kg\n* History of alcohol or illicit drug abuse\n* Unwilling to be compliant with change in life-style-diet and exercise",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "35 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}
